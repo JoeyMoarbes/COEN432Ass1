@@ -35,7 +35,7 @@ public class Ass1
 		
 		try 
 		{
-			String inputFilePath = "C:/Users/ankit/Documents/Ass1Outputs/Ass1Output.txt";
+			String inputFilePath = "C:/Users/joeym/OneDrive/Desktop/Work/COEN_432/Ass1/Ass1Output.txt";
 			File inputFile = new File(inputFilePath);
 			Scanner myLineReader = new Scanner(inputFile);
 		     
