@@ -15,7 +15,7 @@ public class Ass1
 			if (first.get(i).charAt(2) != second.get(i).charAt(0))
 				numberOfMismatches++;
 
-		return numberOfMismatches;
+		return numberOfMismatches ;
 	}
 	
 	static int CountColumnMismatches(Vector<String> first, Vector<String> second) 
