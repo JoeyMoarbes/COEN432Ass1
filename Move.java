@@ -17,4 +17,8 @@ public class Move {
     public void increaseMove() {
         moves++;
     }
+
+    public void setAltered(String a) {
+        this.altered = a;
+    }
 }
